@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(25, 25, 52);
+    padding: 40px;
+    line-height: 9px;
+}
+
+h1{
+    color: white;
+    font-size:50px;
+}
+
+h2{
+    color: aquamarine;
+    font-size: 55px;
+}
+
+h3{
+    color: white;
+    padding-bottom: 30px;
+}
+
+button{
+    background-color: aquamarine;
+    border: none;
+    color: white;
+    padding: 10px 10px;
+    border-radius: 15px;
+}
+
+/* input {
+    text-align: center;
+    border: none;
+    border-radius: 10px;
+    font-size: 15px;
+    background: rgb(32, 48, 84);
+    height: 30px;
+} */
+
+.generate{
+    background-color: grey;
+    padding: 20px 5px;
+    border-radius: 15px;
+    margin:20px;
+    width: 20%;
+}
+.whole{
+    display: flex;
+
+}
